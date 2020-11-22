@@ -1,0 +1,11 @@
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\bin\Debug\Press_Start.exe.config
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\bin\Debug\Press_Start.exe
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\bin\Debug\Press_Start.pdb
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\obj\Debug\Press_Start.csprojAssemblyReference.cache
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\obj\Debug\Press_Start.Properties.Resources.resources
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\obj\Debug\Press_Start.csproj.GenerateResource.cache
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\obj\Debug\Press_Start.csproj.CoreCompileInputs.cache
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\obj\Debug\Press_Start.exe
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\obj\Debug\Press_Start.pdb
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\obj\Debug\Press_Start.Form1.resources
+C:\Users\quiqu\source\repos\Press_Start\Press_Start\obj\Debug\Press_Start.Main.resources
